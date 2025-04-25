@@ -1,6 +1,9 @@
 # ignorar todo
 *
 
+*.pptx
+
+
 # excepto estos notebooks
 !.gitignore
 !entre_rios.ipynb
@@ -10,4 +13,3 @@
 
 # Permitir cualquier PPTX
 !ppt_mapas.ppt
-!ppt_mapas.pptx
