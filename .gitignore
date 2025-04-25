@@ -1,6 +1,7 @@
 # ignorar todo
 *
-ECHO est  activado.
-# excepto estos
+
+# excepto estos notebooks
 !.gitignore
 !entre_rios.ipynb
+!la_pampa.ipynb
