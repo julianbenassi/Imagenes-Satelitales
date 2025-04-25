@@ -1,0 +1,6 @@
+# ignorar todo
+*
+ECHO est  activado.
+# excepto estos
+!.gitignore
+!entre_rios.ipynb
