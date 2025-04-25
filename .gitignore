@@ -7,3 +7,6 @@
 !la_pampa.ipynb
 !cordoba.ipynb
 !las_flores.ipynb
+
+# Permitir cualquier PPTX
+!*.pptx
