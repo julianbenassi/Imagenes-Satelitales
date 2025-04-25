@@ -9,4 +9,5 @@
 !las_flores.ipynb
 
 # Permitir cualquier PPTX
-!*.pptx
+!ppt_mapas.ppt
+!ppt_mapas.pptx
